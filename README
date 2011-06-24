@@ -1,0 +1,41 @@
+BIBLIOTHEQUE
+PLAN DU SITE
+
+- Accueil
+
+NEWS
+-- News
+-- Agenda, animations (expos, rencontres, ateliers)
+-- Nouveaux ouvrages
+-- Conseils aux étudiants
+
+LOGIN
+++ Connection
+
+SEARCH
+++ Recherche avancée
+++ Résultats recherche
+
+CATALOGUE
+++ Navigation catalogue (sans recherche)
+
+ADMINISTRATION (backend)
+++ Creation nouveau compte
+++ Emprunts
+++ Réservations
+++ Gestion retards
+++ Gestion ouvrages (ajouts, suppressions)
+-- Edition agenda / news
+
+ACCOUNT
+++ gestion comptes utilisateurs
+
+ABOUT
+++ Adresse, plan, horaires
+++ Contact
+++ Qui sommes-nous (équipe, mairie + rapport d'activité, plan stratégique)
+++ Tarifs
+++ Limites d'emprunts
+
+
+-- Toggle CSS bureau/mobile

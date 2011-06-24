@@ -1,0 +1,133 @@
+/* Feuille de style principale */
+
+body {
+	background-color: #E8E8E8;
+	font-family: Garamond, serif;
+	font-size: 1em;
+	line-height: 1.5;
+	color: black;
+}
+
+#marges {
+	position: absolute;
+	top: 0;
+	bottom: auto;
+	min-height: 100%;
+	left: 10%;
+	width: 80%;
+	background-color: #FFFFFF;
+}
+
+header {
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+}
+
+h1 {
+	margin: 0;
+	padding: 0.5em;
+	font-size: 1.8em;
+	font-variant: small-caps;
+	font-weight: bold;
+	background-color: #F0F0F0;
+}
+
+h2 {
+	padding: 0 0.8em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	text-align: justify;
+	font-size: 1.2em;
+	font-weight: bold;	
+}
+
+h3 {
+	padding: 0 1em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-align: justify;
+	font-size: 1em;
+	font-weight: bold;	
+}
+
+nav {
+	background-color: #F8F8F8;
+	font-size: 0.8em;
+}
+
+nav ul li {
+	display: inline;
+	margin: 0 0.3em;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+p a {
+	color: black;
+	text-decoration: underline;
+}
+
+
+form#login input, form#logout input {
+	float: right;
+}
+
+#sidebar {
+	display: block;
+	margin-left: 0.5em;
+	margin-bottom: 0.5em;
+	width: 20em;
+	float: right;
+}
+
+#menuBar ul {
+	list-style: none;
+	padding-left: 1em;
+}
+
+#menuBar ul li a {
+	text-decoration: none;
+	color: black;
+}
+
+fieldset {
+	background: #F8F8F8;
+	padding: 2px;
+	font-size: 1em;
+	text-align: left;
+}
+
+fieldset legend {
+	color: #606060;
+}
+
+p {
+	padding: 0 1em;
+	margin-top: 0;
+	margin-bottom: 0.5em;
+	text-align: justify;
+}
+
+form.corps label {
+	width: 8em;
+	float: left;
+	text-align: left;
+	margin-right: 0.5em;
+	display: block
+}
+
+form.corps input.submit {
+	margin-left: 10em;
+}
+
+input.indent {
+	margin: 1em;
+}
+
+img {
+	margin: 1em;	
+}
